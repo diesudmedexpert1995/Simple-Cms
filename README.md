@@ -1,1 +1,1 @@
-# phpprojects
+# Simple content management system. 
